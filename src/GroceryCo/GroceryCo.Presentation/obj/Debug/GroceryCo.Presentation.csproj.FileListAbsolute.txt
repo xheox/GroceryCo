@@ -1,0 +1,6 @@
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Presentation\bin\Debug\GroceryCo.Presentation.exe.config
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Presentation\bin\Debug\GroceryCo.Presentation.exe
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Presentation\bin\Debug\GroceryCo.Presentation.pdb
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Presentation\obj\Debug\GroceryCo.Presentation.csprojResolveAssemblyReference.cache
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Presentation\obj\Debug\GroceryCo.Presentation.exe
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Presentation\obj\Debug\GroceryCo.Presentation.pdb

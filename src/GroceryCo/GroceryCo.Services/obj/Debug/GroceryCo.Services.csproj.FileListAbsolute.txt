@@ -1,0 +1,9 @@
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\bin\Debug\GroceryCo.Services.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\bin\Debug\GroceryCo.Services.pdb
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\bin\Debug\GroceryCo.Data.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\bin\Debug\GroceryCo.SharedObjects.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\bin\Debug\GroceryCo.Data.pdb
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\bin\Debug\GroceryCo.SharedObjects.pdb
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\obj\Debug\GroceryCo.Services.csprojResolveAssemblyReference.cache
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\obj\Debug\GroceryCo.Services.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\obj\Debug\GroceryCo.Services.pdb

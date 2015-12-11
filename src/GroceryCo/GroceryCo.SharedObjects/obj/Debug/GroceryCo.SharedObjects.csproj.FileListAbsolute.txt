@@ -1,0 +1,5 @@
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.SharedObjects\obj\Debug\GroceryCo.SharedObjects.csprojResolveAssemblyReference.cache
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.SharedObjects\bin\Debug\GroceryCo.SharedObjects.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.SharedObjects\bin\Debug\GroceryCo.SharedObjects.pdb
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.SharedObjects\obj\Debug\GroceryCo.SharedObjects.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.SharedObjects\obj\Debug\GroceryCo.SharedObjects.pdb

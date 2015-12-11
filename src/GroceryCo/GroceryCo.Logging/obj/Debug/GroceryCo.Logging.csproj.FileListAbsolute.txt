@@ -1,0 +1,5 @@
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Logging\bin\Debug\GroceryCo.Logging.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Logging\bin\Debug\GroceryCo.Logging.pdb
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Logging\obj\Debug\GroceryCo.Logging.csprojResolveAssemblyReference.cache
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Logging\obj\Debug\GroceryCo.Logging.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Logging\obj\Debug\GroceryCo.Logging.pdb

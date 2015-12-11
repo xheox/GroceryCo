@@ -1,0 +1,7 @@
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Data.Tests\bin\Debug\GroceryCo.Data.Tests.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Data.Tests\bin\Debug\GroceryCo.Data.Tests.pdb
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Data.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Data.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Data.Tests\obj\Debug\GroceryCo.Data.Tests.csprojResolveAssemblyReference.cache
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Data.Tests\obj\Debug\GroceryCo.Data.Tests.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Data.Tests\obj\Debug\GroceryCo.Data.Tests.pdb

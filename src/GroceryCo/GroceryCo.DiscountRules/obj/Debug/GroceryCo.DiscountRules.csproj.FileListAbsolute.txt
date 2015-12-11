@@ -1,0 +1,7 @@
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.DiscountRules\bin\Debug\GroceryCo.DiscountRules.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.DiscountRules\bin\Debug\GroceryCo.DiscountRules.pdb
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.DiscountRules\bin\Debug\GroceryCo.SharedObjects.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.DiscountRules\bin\Debug\GroceryCo.SharedObjects.pdb
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.DiscountRules\obj\Debug\GroceryCo.DiscountRules.csprojResolveAssemblyReference.cache
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.DiscountRules\obj\Debug\GroceryCo.DiscountRules.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.DiscountRules\obj\Debug\GroceryCo.DiscountRules.pdb
