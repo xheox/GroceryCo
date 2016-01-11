@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\CartLine.cs" />
+    <Compile Include="Entities\CartOrder.cs" />
     <Compile Include="Entities\DiscountItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

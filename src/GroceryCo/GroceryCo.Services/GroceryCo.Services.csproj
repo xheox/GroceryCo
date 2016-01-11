@@ -50,6 +50,10 @@
       <Project>{ed60a9fa-05ca-4f98-9d3a-f08eab3ccc92}</Project>
       <Name>GroceryCo.Data</Name>
     </ProjectReference>
+    <ProjectReference Include="..\GroceryCo.DiscountRules\GroceryCo.DiscountRules.csproj">
+      <Project>{D224020B-70A2-4DB0-9823-B56DA8671668}</Project>
+      <Name>GroceryCo.DiscountRules</Name>
+    </ProjectReference>
     <ProjectReference Include="..\GroceryCo.SharedObjects\GroceryCo.SharedObjects.csproj">
       <Project>{2141c1e8-0c1d-4067-ba91-12065e50e4bf}</Project>
       <Name>GroceryCo.SharedObjects</Name>

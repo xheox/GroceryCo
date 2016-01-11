@@ -46,6 +46,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\GroceryCo.Data\GroceryCo.Data.csproj">
+      <Project>{ED60A9FA-05CA-4F98-9D3A-F08EAB3CCC92}</Project>
+      <Name>GroceryCo.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\GroceryCo.SharedObjects\GroceryCo.SharedObjects.csproj">
       <Project>{2141c1e8-0c1d-4067-ba91-12065e50e4bf}</Project>
       <Name>GroceryCo.SharedObjects</Name>

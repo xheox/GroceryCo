@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Discount\CartLineBase.cs" />
+    <Compile Include="Discount\CartOrderBase.cs" />
     <Compile Include="Discount\DiscountConfigurationBase.cs" />
     <Compile Include="Discount\DiscountItemBase.cs" />
     <Compile Include="Discount\IDiscountRule.cs" />

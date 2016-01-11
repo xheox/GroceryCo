@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryCo.Presentation", "GroceryCo.Presentation\GroceryCo.Presentation.csproj", "{05A4DEE4-0289-46DD-A1A0-07E4261D8C5E}"
 EndProject
@@ -13,13 +13,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryCo.Services", "Groce
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryCo.DiscountRules", "GroceryCo.DiscountRules\GroceryCo.DiscountRules.csproj", "{D224020B-70A2-4DB0-9823-B56DA8671668}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryCo.Presentation.Tests", "GroceryCo.Presentation.Tests\GroceryCo.Presentation.Tests.csproj", "{370E85E7-8BC6-4B04-8BF3-AD27C402EAFE}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryCo.Services.Tests", "GroceryCo.Services.Tests\GroceryCo.Services.Tests.csproj", "{6024BCE8-291C-4AFD-AAD8-3E5A10B95194}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryCo.Data.Tests", "GroceryCo.Data.Tests\GroceryCo.Data.Tests.csproj", "{48CB998C-9CC9-454C-AE38-81A3E1E91560}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryCo.Performance.Tests", "GroceryCo.Performance.Tests\GroceryCo.Performance.Tests.csproj", "{26461EDC-5144-4427-8CFA-694F60C0B475}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9322A21A-472D-4DFD-8E84-AD46FD14BFA1}"
 	ProjectSection(SolutionItems) = preProject
@@ -53,10 +49,6 @@ Global
 		{D224020B-70A2-4DB0-9823-B56DA8671668}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D224020B-70A2-4DB0-9823-B56DA8671668}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D224020B-70A2-4DB0-9823-B56DA8671668}.Release|Any CPU.Build.0 = Release|Any CPU
-		{370E85E7-8BC6-4B04-8BF3-AD27C402EAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{370E85E7-8BC6-4B04-8BF3-AD27C402EAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{370E85E7-8BC6-4B04-8BF3-AD27C402EAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{370E85E7-8BC6-4B04-8BF3-AD27C402EAFE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6024BCE8-291C-4AFD-AAD8-3E5A10B95194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6024BCE8-291C-4AFD-AAD8-3E5A10B95194}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6024BCE8-291C-4AFD-AAD8-3E5A10B95194}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -65,10 +57,6 @@ Global
 		{48CB998C-9CC9-454C-AE38-81A3E1E91560}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48CB998C-9CC9-454C-AE38-81A3E1E91560}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48CB998C-9CC9-454C-AE38-81A3E1E91560}.Release|Any CPU.Build.0 = Release|Any CPU
-		{26461EDC-5144-4427-8CFA-694F60C0B475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{26461EDC-5144-4427-8CFA-694F60C0B475}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{26461EDC-5144-4427-8CFA-694F60C0B475}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{26461EDC-5144-4427-8CFA-694F60C0B475}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2141C1E8-0C1D-4067-BA91-12065E50E4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2141C1E8-0C1D-4067-BA91-12065E50E4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2141C1E8-0C1D-4067-BA91-12065E50E4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -82,10 +70,8 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{370E85E7-8BC6-4B04-8BF3-AD27C402EAFE} = {C4B7BED6-B97F-4E6E-88E1-D0DDB4644A82}
 		{6024BCE8-291C-4AFD-AAD8-3E5A10B95194} = {C4B7BED6-B97F-4E6E-88E1-D0DDB4644A82}
 		{48CB998C-9CC9-454C-AE38-81A3E1E91560} = {C4B7BED6-B97F-4E6E-88E1-D0DDB4644A82}
-		{26461EDC-5144-4427-8CFA-694F60C0B475} = {C4B7BED6-B97F-4E6E-88E1-D0DDB4644A82}
 		{9322A21A-472D-4DFD-8E84-AD46FD14BFA1} = {C4B7BED6-B97F-4E6E-88E1-D0DDB4644A82}
 	EndGlobalSection
 EndGlobal

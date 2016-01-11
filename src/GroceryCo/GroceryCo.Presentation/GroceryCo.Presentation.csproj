@@ -49,6 +49,20 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GroceryCo.Data.Tests\GroceryCo.Data.Tests.csproj">
+      <Project>{48cb998c-9cc9-454c-ae38-81a3e1e91560}</Project>
+      <Name>GroceryCo.Data.Tests</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GroceryCo.Services\GroceryCo.Services.csproj">
+      <Project>{BA8D9A35-5B3A-4431-A864-F5331030BEC4}</Project>
+      <Name>GroceryCo.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GroceryCo.SharedObjects\GroceryCo.SharedObjects.csproj">
+      <Project>{2141c1e8-0c1d-4067-ba91-12065e50e4bf}</Project>
+      <Name>GroceryCo.SharedObjects</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

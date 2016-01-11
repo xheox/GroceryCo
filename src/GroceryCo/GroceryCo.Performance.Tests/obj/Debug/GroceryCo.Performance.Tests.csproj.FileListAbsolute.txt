@@ -3,6 +3,6 @@ F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Performance.Tests\bin\Debug\
 F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Performance.Tests\bin\Debug\GroceryCo.Performance.Tests.pdb
 F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Performance.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
 F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Performance.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
-F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Performance.Tests\obj\Debug\GroceryCo.Performance.Tests.csprojResolveAssemblyReference.cache
 F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Performance.Tests\obj\Debug\GroceryCo.Performance.Tests.dll
 F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Performance.Tests\obj\Debug\GroceryCo.Performance.Tests.pdb
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Performance.Tests\obj\Debug\GroceryCo.Performance.Tests.csprojResolveAssemblyReference.cache

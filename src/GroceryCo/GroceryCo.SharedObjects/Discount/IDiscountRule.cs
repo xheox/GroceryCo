@@ -1,4 +1,6 @@
-﻿namespace GroceryCo.SharedObjects.Discount
+﻿using System.Collections.Generic;
+
+namespace GroceryCo.SharedObjects.Discount
 {
     /// <summary>
     /// base type for Discount Rules
@@ -10,6 +12,7 @@
     ///  </summary>
     public interface IDiscountRule
     {
-        DiscountItemBase ApplyDiscount(CartLineBase cartLineBase);
+        List<int> ProductList { get; set; }
+        CartOrderBase ApplyDiscount(CartOrderBase cartOrderBase);
     }
 }

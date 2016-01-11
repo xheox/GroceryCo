@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using GroceryCo.Services;
 
 namespace GroceryCo.Presentation
 {
@@ -10,6 +11,8 @@ namespace GroceryCo.Presentation
     {
         static void Main(string[] args)
         {
+            var svc = new CheckoutService();
+            svc.DoCheckout();
         }
     }
 }

@@ -25,6 +25,6 @@ namespace GroceryCo.SharedObjects.Services
         /// </summary>
         /// <param name="configurations"></param>
         /// <returns></returns>
-        bool ValidateConfigurations(ICollection<DiscountConfigurationBase> configurations);
+        ICollection<DiscountConfigurationBase> ValidateConfigurations(ICollection<DiscountConfigurationBase> configurations);
     }
 }

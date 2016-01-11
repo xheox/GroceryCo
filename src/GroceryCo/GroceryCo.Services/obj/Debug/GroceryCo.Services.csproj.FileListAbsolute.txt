@@ -7,3 +7,5 @@ F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\bin\Debug\GroceryCo
 F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\obj\Debug\GroceryCo.Services.csprojResolveAssemblyReference.cache
 F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\obj\Debug\GroceryCo.Services.dll
 F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\obj\Debug\GroceryCo.Services.pdb
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\bin\Debug\GroceryCo.DiscountRules.dll
+F:\My Repositories\farzilla\src\GroceryCo\GroceryCo.Services\bin\Debug\GroceryCo.DiscountRules.pdb

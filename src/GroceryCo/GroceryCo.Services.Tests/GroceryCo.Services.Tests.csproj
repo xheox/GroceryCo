@@ -50,8 +50,28 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="DiscountConfigServiceTests.cs" />
+    <Compile Include="CheckoutServiceTests.cs" />
+    <Compile Include="DiscountServiceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GroceryCo.Data\GroceryCo.Data.csproj">
+      <Project>{ED60A9FA-05CA-4F98-9D3A-F08EAB3CCC92}</Project>
+      <Name>GroceryCo.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GroceryCo.DiscountRules\GroceryCo.DiscountRules.csproj">
+      <Project>{D224020B-70A2-4DB0-9823-B56DA8671668}</Project>
+      <Name>GroceryCo.DiscountRules</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GroceryCo.Services\GroceryCo.Services.csproj">
+      <Project>{BA8D9A35-5B3A-4431-A864-F5331030BEC4}</Project>
+      <Name>GroceryCo.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GroceryCo.SharedObjects\GroceryCo.SharedObjects.csproj">
+      <Project>{2141C1E8-0C1D-4067-BA91-12065E50E4BF}</Project>
+      <Name>GroceryCo.SharedObjects</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
